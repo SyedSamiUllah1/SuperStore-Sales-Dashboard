@@ -45,11 +45,11 @@ This project is an interactive **Business Intelligence dashboard** built in **Mi
 
 ## Project Preview
 
-Screenshot1.png
+![Dashboard](Screenshot1.png)
 
-Screenshot2.png
+![Profit Loss](Screenshot2.png)
 
-Screenshot3.png
+![Report](Screenshot3.png)
 
 ---
 
